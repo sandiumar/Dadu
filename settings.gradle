@@ -1,0 +1,2 @@
+rootProject.name='Dadu'
+include ':app'
